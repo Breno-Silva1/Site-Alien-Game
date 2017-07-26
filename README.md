@@ -1,5 +1,5 @@
 # Site Alien Game
-## Projeto de Web Design, turma de TADS 1M.
+### Projeto de Web Design, turma de TADS 1M.
 
 O Alien Game, é um jogo digital desenvolvido em Ruby para a disciplina de Programação de Computadores. 
 Após isso, desenvolvemos o site do jogo, desta vez, para a disciplina de Web Design.
