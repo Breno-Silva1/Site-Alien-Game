@@ -222,13 +222,10 @@ form .glyphicon {
 /*============== RODAPÉ ==============*/
 
 footer {
-  background-color: #f2f2f2;
-  padding: 25px;
-}
-footer {
     font-family: "Helvetica";
     background-color: #23235d;
     color: #fff;
+    padding: 25px;
 }
 
 
